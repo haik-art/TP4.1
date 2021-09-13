@@ -3,7 +3,7 @@ agent any
 stages {
  stage ('build'){
   steps {
-   echo 'Bonjour Mnde!'
+   echo 'Bonjour Monde!'
   }
  }
 }
